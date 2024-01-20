@@ -1,6 +1,3 @@
-# Smart Contract Auditing CheckList
-
-
 # Smart Contract Auditing Checklist
 
 This checklist covers common vulnerabilities and issues to watch out for when conducting smart contract security audits. It compiles patterns seen in auditing contests and real-world assessments.
