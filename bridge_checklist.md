@@ -1,4 +1,4 @@
-# Detailed Bridge Protocol Attack Checklist
+# Bridge Protocol Attack Checklist
 
 - This list comes from [code4rena-2023-07-axelar](https://github.com/code-423n4/2023-07-axelar-findings/blob/main/report.md)
 
