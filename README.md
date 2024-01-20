@@ -1,1 +1,1 @@
-# SmartContractAuditingCheckList
+# Smart Contract Auditing CheckList
