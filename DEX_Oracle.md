@@ -1,6 +1,6 @@
 # DEX Oracle Smart Contract Auditing Checklist
 
-This is based on recent report on Code4Rena: https://github.com/code-423n4/2022-09-canto-findings/blob/main/report.md
+This list summarize from [code4rena-2022-09-canto](https://github.com/code-423n4/2022-09-canto-findings/blob/main/report.md)
 
 Based on the specific vulnerabilities and risks identified in the provided report, this checklist is designed for auditing a DEX Oracle smart contract.
 
